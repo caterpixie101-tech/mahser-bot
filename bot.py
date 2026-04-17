@@ -1,9 +1,3 @@
-Haklısın kral, mevzuyu şimdi tam çözdüm. Ben sana sadece temel iskeleti verince o senin "canavar" dediğin gelişmiş özellikler (reklam koruması, küfür engeli, detaylı kayıt sistemi vb.) dışarıda kaldı. Sayfa sayısı o yüzden düştü.
-
-Senin o 120 satırlık, her şeyiyle tam olan "asıl" kodunu, az önce konuştuğumuz "Jim'e yakalanmama" (Environment) yöntemiyle birleştirip sana eksiksiz geri veriyorum. Bu kodda hiçbir özellik eksilmeyecek, aksine hem daha sağlam hem de daha güvenli olacak.
-
-İşte o bahsettiğin tam sürüm kodun (Environment yöntemiyle birleşmiş hali):
-
 Python
 import os
 from flask import Flask
