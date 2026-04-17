@@ -20,7 +20,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix='.', intents=intents, help_command=None)
 
-TOKEN = 'MTQ5NDMxNzU3NTk0Mzc1Mzc4OA.Gn7JZ9.3GgOfndH_bhDzDMYjRSykitJ85eoKpsG6-qVWs' 
+TOKEN = 'MTQ5NDMxNzU3NTk0Mzc1Mzc4OA.GXhIyW.7igOVlymGm8y4KRd3ruEqya_ow8YE2eNKwSj5E' 
 
 GELEN_GIDEN_ID = 1492334113829552199 
 KAYITLI_ROL_ID = 1492329498572755137
@@ -124,4 +124,4 @@ async def infaz(ctx, u: discord.Member):
     await u.ban()
     await ctx.send(f"💀 {u.name} infaz edildi.")
 
-bot.run(TOKEN)
+bot.run(MTQ5NDMxNzU3NTk0Mzc1Mzc4OA.GXhIyW.7igOVlymGm8y4KRd3ruEqya_ow8YE2eNKwSj5E)
